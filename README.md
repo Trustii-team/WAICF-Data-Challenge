@@ -22,4 +22,6 @@ Pendant 48h, il y a eu 83 participants et plus de 235 prédictions soumises, plu
 
 La meilleure équipe a construit un modéle qui a eu un score de 0.6760 "balanced_accuracy".
 
+le leaderboard complet est disponible sur https://app.trustii.io 
+
 ![illustration](/images/waicf-data-challenge-result.png)
