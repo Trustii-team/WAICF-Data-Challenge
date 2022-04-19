@@ -20,4 +20,6 @@ Dans le cadre de ce challenge, Trustii.io a proposé un jeu de données qui a é
 
 Pendant 48h, il y a eu 83 participants et plus de 235 prédictions soumises, plusieurs participants ont participé en équipe.
 
+La meilleure équipe a construit un modéle qui a eu un score de 0.6760 "balanced_accuracy".
+
 ![illustration](/images/waicf-data-challenge-result.png)
